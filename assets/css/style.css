@@ -56,7 +56,7 @@ Default Style
 /* Root values */
 
 :root {
-    --theme-color: #e21f36;
+    --theme-color: #fffa57;
   }
 
 
@@ -271,7 +271,7 @@ Default Btn Area Style*/
     z-index: 1;
     font-weight: 600;
     font-size: 16px;
-    color: #ffffff;
+    color: #000000;
     padding: 15px 30px 16px;
     line-height: 1;
     -webkit-transition: all ease 0.5s;
@@ -848,11 +848,11 @@ Navbar Area Style
 }
 
 .navbar-area.navbar-area-two .main-nav nav .navbar-nav .nav-item a:hover {
-    color: var(--theme-color);
+    color: #d2cc00;
 }
 
 .navbar-area.navbar-area-two .main-nav nav .navbar-nav .nav-item a.active {
-    color: var(--theme-color);
+    color: #000000;
 }
 
 .navbar-area.navbar-area-two .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
@@ -1718,7 +1718,7 @@ Solution Area Style
     font-weight: 600;
     display: block;
     margin-bottom: 10px;
-    color: var(--theme-color);
+    color: #000000;
 }
 
 .solution-title h2 {
@@ -3278,7 +3278,7 @@ Go Top Style*/
     left: 0;
     right: 0;
     margin: 0 auto;
-    color: #ffffff;
+    color: #000000;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     font-size: 20px;
